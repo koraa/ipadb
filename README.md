@@ -21,3 +21,16 @@ and change the querys (the stuff beginning with the $ sign).
 
 It's certainly possible to load this stuff in an interactive console or in the browser,
 currently there are no scripts for that, but if you know what you're doing: GO FOR IT!
+
+TODO
+====
+
+* Fill the DB
+* Comment some stuff
+* Add some layers of abstraction
+* Add proper node support
+* Add a browser frontend
+* Add a script wrapper for the coffee console
+* Offer compiled variant
+* Add a $PROPERTY=$VALUE query/data
+* Load data from files
